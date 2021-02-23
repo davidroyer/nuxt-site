@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.2](https://github.com/davidroyer/nuxt-site/compare/v0.0.1...v0.0.2) (2021-02-23)
+
+
+### Features
+
+* basic setup for adding more modules ([cc000e2](https://github.com/davidroyer/nuxt-site/commit/cc000e26c4e9e493e53a5ba0860fd1408011d2f9))
+
 ### [0.0.1](https://github.com/davidroyer/nuxt-site/compare/v0.0.0...v0.0.1) (2021-02-23)
 
 ## 0.0.0 (2021-02-23)
