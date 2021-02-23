@@ -1,15 +1,15 @@
 {
   "name": "@droyer/nuxt-site",
   "version": "3.4.2",
-  "description": "TailwindCSS module for Nuxt.js",
+  "description": "Module for Nuxt.js for all basic site needs",
   "license": "MIT",
   "contributors": [
     {
-      "name": "Sébastien Chopin <seb@chopin.io>"
+      "name": "David Royer <droyer01@gmail.com>"
     }
   ],
   "main": "lib/module.js",
-  "repository": "https://github.com/nuxt-community/tailwindcss-module",
+  "repository": "https://github.com/davidroyer/nuxt-site",
   "publishConfig": {
     "access": "public"
   },
