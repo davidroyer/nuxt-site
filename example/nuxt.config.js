@@ -9,6 +9,9 @@ export default {
   ],
 
   site: {
+    title: 'The Site Title',
+    description: 'The site description goes here.',
+    url: 'https://nuxt-site.netlify.app',
     analyticsId: 'abc123'
   }
   // tailwindcss: {
